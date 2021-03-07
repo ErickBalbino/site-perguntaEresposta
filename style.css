@@ -4,8 +4,9 @@
 .cabecalho{
     display: flex;
     height: 150px;
-    background: linear-gradient(to right, #0fff, #00f);
+    background: linear-gradient(to right, #0fff, #a52a2a);
     align-items: center;
+    border-bottom: 2px solid #000;
 }
 .cabecalho_menu-lista--item{
     display: inline;
@@ -23,4 +24,27 @@
 .cabecalho_logo-site{
     margin-left: 890px;
     border-radius: 5px;
+}
+
+/*Conteudo*/
+.conteudo_site{
+    width: 1300px;
+    margin: auto;
+    text-align: justify;
+    border: 1px solid #aaa;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.534);
+}
+section h1{
+    font-size: 30pt;
+    margin-bottom: 30px;
+    text-decoration: underline #0fff 4px;
+}
+.introducao{
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
 }
