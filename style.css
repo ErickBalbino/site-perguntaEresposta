@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+body{
+    margin: 0;
+}
+header.cabecalho{
+    background: linear-gradient(to right, #0fff, #00f);
+}
