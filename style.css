@@ -1,9 +1,26 @@
 @charset "utf-8";
 
-body{
-    margin: 0;
-    padding: 0;
-}
+/*Cabeçalho*/
 .cabecalho{
+    display: flex;
+    height: 150px;
     background: linear-gradient(to right, #0fff, #00f);
+    align-items: center;
+}
+.cabecalho_menu-lista--item{
+    display: inline;
+    margin-left: 10px;
+}
+.cabecalho_menu-lista--item a{
+    font-size: 17px;
+    background-color: #22bb36;
+    padding: 16px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #fff;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.521);
+}
+.cabecalho_logo-site{
+    margin-left: 890px;
+    border-radius: 5px;
 }
