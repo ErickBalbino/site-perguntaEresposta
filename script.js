@@ -5,9 +5,6 @@ function verificarQuestao01() {
     var resultado = window.document.getElementById('resposta1') // Substituir pelo resultado
 
     //Verificar as respostas
-    //if(respostas.unchecked){
-       // alert('Insira os dados!')
-    //}
     if(resposta[0].checked){
         resultado.innerHTML = `A sua resposta está correta!`
         resultado.style.color = '#0f0'
@@ -29,5 +26,24 @@ function verificarQuestao01() {
 
 //Verificar questão 2
 function verificarQuestao02() {
+    var resposta = window.document.getElementsByName('alt2')  //verificar resposta do usuario
+    var resultado = window.getElementById('resposta2')  //substituir pelo resultado
 
-}
+    if(resposta[0].checked){
+        resposta.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
+        resultado.style.color = '#f00'
+    }else{
+        if(resposta[1].checked){
+            resposta.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
+            resultado.style.color = '#f00'
+        }
+        if(resposta[2].checked){
+            resposta.innerHTML = `A sua resposta está correta!`
+            resposta.style.color = '#0f0'
+        }
+        if(resposta[3].checked){
+            resposta.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
+            resposta.style.color = '#f00'
+        }
+    }
+} 
