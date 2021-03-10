@@ -47,6 +47,23 @@ section h1{
     margin-bottom: 30px;
     text-decoration: underline #0ff 4px;
 }
+.perfil{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.perfil_foto-imagem{
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.perfil_txt{
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
 .introducao{
     font-size: 18px;
     line-height: 1.5;
@@ -96,7 +113,6 @@ input{
     line-height: 1.5;
     margin-top: 10px;
     margin-bottom: 20px;
-    cursor: pointer;
 }
 /* Resposta das questões */
 .btnverificar{
@@ -122,6 +138,16 @@ input{
     font-size: 14pt;
 }
 .resposta3{
+    padding: 0px 0px 10px 30px;
+    margin-bottom: 10px;
+    font-size: 14pt;
+}
+.resposta4{
+    padding: 0px 0px 10px 30px;
+    margin-bottom: 10px;
+    font-size: 14pt;
+}
+.resposta5{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
     font-size: 14pt;

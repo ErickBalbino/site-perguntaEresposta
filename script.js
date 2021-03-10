@@ -90,7 +90,7 @@ function verificarQuestao04(){
             resultado.style.color = '#0f0 '
         }
         if(resposta[3].checked){
-            resultado.innerHTML = `A sua resposta está incorreta! Mas não desista.`
+            resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
             resultado.style.color = '#f00'
         }
     }
@@ -101,19 +101,19 @@ function verificarQuestao05(){
     var resultado = window.document.getElementById('resposta5') //substituir pelo resultado
 
     if(resposta[0].checked){
-        resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
-        resultado.style.color = '#f00'
+        resultado.innerHTML = `A sua resposta está correta!`
+        resultado.style.color = '#0f0'
     }else{
         if(resposta[1].checked){
             resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
             resultado.style.color = '#f00'
         }
         if(resposta[2].checked){
-            resultado.innerHTML = `A sua resposta está correta!`
-            resultado.style.color = '#0f0 '
+            resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
+            resultado.style.color = '#f00'
         }
         if(resposta[3].checked){
-            resultado.innerHTML = `A sua resposta está incorreta! Mas não desista.`
+            resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
             resultado.style.color = '#f00'
         }
     }
