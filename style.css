@@ -330,10 +330,8 @@ icone_instagram{
         font-family: 'Times New Roman', Times, serif;
     }
     /* Rodapé */
-    .rodape{
-        background-color: #3d3d3d;
-        color: #0ff;
-        padding: 50px 0px 30px 0px;
+    .rodape_secao{
+        display: block;
     }
     .rodape_introducao h2{
         font-size: 1.4rem;
@@ -341,11 +339,9 @@ icone_instagram{
         margin-left: 5px;
     }
     .rodape_introducao p{ 
-        display: block;
         padding-left: 5px;
     }
     .rodape_redesSociais h2{
-        display: block;
         padding: 5px;
     }
 }
