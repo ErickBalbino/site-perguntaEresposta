@@ -347,19 +347,17 @@ icone_instagram{
         display: block;
     }
     .rodape_introducao h2{
-        font-size: 1.4rem;
         margin-bottom: 15px;
         margin-left: 5px;
     }
     .rodape_introducao p{ 
         padding-left: 5px;
-        text-align: justify;
     }
     .rodape_redesSociais h2{
         padding: 5px;
         margin-top: 20px;
     }
     .icone_facebook{
-        margin-right: 10px;
+        margin-left: 10px;
     }
 }
