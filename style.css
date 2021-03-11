@@ -258,6 +258,12 @@ icone_instagram{
     }
 
     /* corpo do site */
+    .conteudo_site{
+        margin: none;
+        padding-left: 5px;
+        padding-bottom: 5px;
+        padding-right: 5px;
+    }
     section h1{
         text-align: left;
         font-size: 1.8rem;
@@ -308,7 +314,7 @@ icone_instagram{
         padding-left: 5px;
     }
     .btnverificar{
-    font-size: 10pt;
+        font-size: 1.1rem;
     }
     .alternativas{
         font-size: 1.1rem;
@@ -323,7 +329,8 @@ icone_instagram{
     }
     summary{
         width: 290px;
-        height: 20px;
+        height: 40px;
+        padding: 5px;
         font-size: 1.1rem;
     }
     details p{
