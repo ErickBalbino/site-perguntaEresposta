@@ -202,7 +202,6 @@ details p{
 .rodape_introducao p{ 
     font-size: 1.1rem;
     line-height: 1.15;
-    display: inline;
 }
 .rodape_redesSociais h2{
     font-size: 1.7rem;
@@ -271,25 +270,26 @@ icone_instagram{
         text-decoration: underline #0ff 2px;
     }
     .introducao{
-        font-size: 1.1rem;
+        font-size: 1.05rem;
+        font-family: 'Times New Roman', Times, serif
     }
     .txtquest1{
         font-family: 'Times New Roman', Times, serif;
         margin-top: 40px;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         line-height: 1.5;
         width: auto;
     }
     .txtquest2{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         line-height: 1.5;
         width: auto;
         margin-top: 40px;
     }
     .txtquest3{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         line-height: 1.5;
         text-align: justify;
         width: auto;
@@ -297,27 +297,28 @@ icone_instagram{
     }
     .txtquest4{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         line-height: 1.5;
         text-align: justify;
         margin-top: 40px;
+        width: auto;
     }
     .txtquest5{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         line-height: 1.5;
         text-align: justify;
         width: auto;
         margin-top: 40px;
     }
     .btnverificar{
-        font-size: 1.1rem;
+        font-size: 1.05rem;
     }
     .alternativas{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         line-height: 1.5;
-        margin-top: 5px;
+        margin-top: 15px;
         margin-bottom: 10px;
     }
     details{
