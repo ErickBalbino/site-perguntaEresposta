@@ -3,8 +3,8 @@
 /*Cabeçalho*/
 .cabecalho{
     display: flex;
-    height: 150px;
-    background: linear-gradient(to right, #0fff, #a52a2a);
+    height: 130px;
+    background: #fff;
     align-items: center;
     border-bottom: 1px solid #000;
 }
@@ -15,17 +15,19 @@
 .cabecalho_menu-lista--item a{
     font-size: 17px;
     background-color: #22bb36;
-    padding: 16px;
-    border-radius: 15px;
+    padding: 13px;
+    border-radius: 30px;
     font-size: 18px;
     color: #fff;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.521);
 }
 .cabecalho_menu-lista--item a:hover{
+    position: relative;
     background-color: #59da6a;
+    transition: ease-in-out 0.8s ;
 }
 .cabecalho_logo-site{
-    margin-left: 890px;
+    margin-left: 810px;
     border-radius: 5px;
 }
 
@@ -34,7 +36,7 @@
     background-color: #ccc;
 }
 .conteudo_site{
-    background-color: #fff;
+    background-color: rgb(245, 240, 240);
     margin: auto;
     text-align: justify;
     padding-top: 50px;
@@ -360,7 +362,7 @@ icone_instagram{
         margin-left: 5px;
     }
     .rodape_introducao p{ 
-        padding: 5px;
+        padding: 10px;
         text-align: justify;
     }
     .rodape_redesSociais h2{
@@ -368,7 +370,7 @@ icone_instagram{
         margin-top: 20px;
     }
     .rodape_redesSociais p{
-        padding: 5px;
+        padding: 10px;
         text-align: justify;
     }
     .icone_facebook{
