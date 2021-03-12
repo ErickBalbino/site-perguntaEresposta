@@ -132,6 +132,9 @@ input{
     cursor: pointer;
     margin-left: 10px;
 }
+.btnverificar:focus{
+    outline: none;
+}
 .resposta1{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
@@ -176,6 +179,9 @@ summary{
     border-radius: 10px;
     cursor: pointer;
     
+}
+summary:focus{
+    outline: none;
 }
 details p{
     font-size: 18px;
@@ -241,7 +247,7 @@ icone_instagram{
     @media (max-width: 768.92px){
     .cabecalho_mobile{
         display: block;
-        background-color: rgb(61, 61, 219);
+        background-color: #00f;
         height: 100px;
     }
     .cabecalho_logo-site--mobile{
