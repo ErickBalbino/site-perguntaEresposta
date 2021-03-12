@@ -245,6 +245,11 @@ icone_instagram{
     margin-top: 5px;
     margin-left: 5px;
 }
+.rodape_copy{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.1rem;
+}
 
     /* Medias queries*/
 
@@ -428,5 +433,10 @@ icone_instagram{
     }
     .icone_facebook{
         margin-left: 10px;
+    }
+    .rodape_copy{
+        text-align: center;
+        margin-top: 30px;
+        font-size: 1.05rem;
     }
 }
