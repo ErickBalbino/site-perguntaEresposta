@@ -247,7 +247,7 @@ icone_instagram{
     @media (max-width: 768.92px){
     .cabecalho_mobile{
         display: block;
-        background-color: #00f;
+        background-color: rgba(0, 0, 255, 0.63);
         height: 100px;
     }
     .cabecalho_logo-site--mobile{
