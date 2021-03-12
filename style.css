@@ -139,26 +139,31 @@ input{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
     font-size: 1.05rem;
+    font-weight: bold;
 }
 .resposta2{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
     font-size: 1.05rem;
+    font-weight: bold;
 }
 .resposta3{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
     font-size: 1.05rem;
+    font-weight: bold;
 }
 .resposta4{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
     font-size: 1.05rem;
+    font-weight: bold;
 }
 .resposta5{
     padding: 0px 0px 10px 30px;
     margin-bottom: 10px;
     font-size: 1.05rem;
+    font-weight: bold;
 }
 details{
     padding-top: 10px;
@@ -334,15 +339,45 @@ icone_instagram{
         width: auto;
         margin-top: 40px;
     }
-    .btnverificar{
-        font-size: 1.05rem;
-    }
     .alternativas{
         font-family: 'Times New Roman', Times, serif;
         font-size: 1.05rem;
         line-height: 1.5;
         margin-top: 15px;
         margin-bottom: 10px;
+    }
+    .btnverificar{
+        font-size: 1.05rem;
+    }
+    .resposta1{
+        padding: 0px 0px 10px 30px;
+        margin-bottom: 10px;
+        font-size: 1.05rem;
+        font-weight: bold;
+    }
+    .resposta2{
+        padding: 0px 0px 10px 30px;
+        margin-bottom: 10px;
+        font-size: 1.05rem;
+        font-weight: bold;
+    }
+    .resposta3{
+        padding: 0px 0px 10px 30px;
+        margin-bottom: 10px;
+        font-size: 1.05rem;
+        font-weight: bold;
+    }
+    .resposta4{
+        padding: 0px 0px 10px 30px;
+        margin-bottom: 10px;
+        font-size: 1.05rem;
+        font-weight: bold;
+    }
+    .resposta5{
+        padding: 0px 0px 10px 30px;
+        margin-bottom: 10px;
+        font-size: 1.05rem;
+        font-weight: bold;
     }
     details{
         padding-top: 10px;

@@ -66,7 +66,7 @@ function verificarQuestao03(){
             resultado.style.color = '#0f0'
         }
         if(resposta[3].checked){
-            resultado.innerHTML = `A sua resposta está incorreta! Mas não desista.`
+            resultado.innerHTML = `A sua resposta está incorreta! Mas não desanime.`
             resultado.style.color = '#f00'
         }
     }
