@@ -22,3 +22,15 @@
 ### Rodapé
 ![imagem-site-hist3](https://user-images.githubusercontent.com/78397162/110883889-edcf8a80-82c2-11eb-95d7-133b8743fed3.png)
 
+## MOBILE
+### Cabeçalho
+![site-hist-mobile](https://user-images.githubusercontent.com/78397162/110983103-18aff200-8348-11eb-8bcc-ce1824a45c51.jpg)
+
+### Questões comentadas
+![site2-hist-mobile](https://user-images.githubusercontent.com/78397162/110983358-6c224000-8348-11eb-8559-e5bd80b2d05b.jpg)
+
+### Rodapé
+![site3-hist-mobile](https://user-images.githubusercontent.com/78397162/110983526-9d027500-8348-11eb-83f0-b3d9af4b4f3e.jpg)
+
+
+
