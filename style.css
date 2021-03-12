@@ -254,6 +254,7 @@ icone_instagram{
         display: block;
         background-color: #00f;
         height: 80px;
+        border: 2px, solid #000;
     }
     .cabecalho_logo-site--mobile{
         display: flex;
