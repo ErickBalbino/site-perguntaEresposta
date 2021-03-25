@@ -1,5 +1,5 @@
 # HISTORIZANDO
-  Site com perguntas sobre historia, através de quiz interativo e correção automática das questões!
+  Site com perguntas sobre historia, através de quiz interativo e correção automática das questões! Pode ser acessada através do link         https://erickbalbino.github.io/perguntas-de-historia-1-guerra-mundial 🤝
   
   Este site foi feito com:
   * HTML
